@@ -6,6 +6,8 @@ Temperatura, Umidade do ar, Velocidade do vento.
 
 O projeto teve como intuito de estudo o consumo e integração de APIs externas.
 
+![Projeto](https://github.com/igoroszter/app-previsao-do-tempo/blob/main/2022-12-07%2019-44-55.gif)
+
 # Tecnologias utilizadas
 - HTML5
 - CSS3
